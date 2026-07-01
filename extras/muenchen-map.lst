@@ -1,0 +1,717 @@
+;München U- and S-Bahn and Trams:MVG
+# Metro
+:U1:#51822E
+Olympia-Einkaufszentrum
+Georg-Brauchle-Ring
+Westfriedhof
+Gern
+Rotkreuzplatz
+Maillingerstr.
+Stiglmaierplatz
+Hauptbahnhof
+Sendlinger Tor
+Fraunhoferstr.
+Kolumbusplatz
+Candidplatz
+Wettersteinplatz
+St.-Quirin-Platz
+Mangfallplatz
+# Metro
+:U2:#C20C31
+Feldmoching
+Hasenbergl
+Dülferstr.
+Harthof
+Am Hart
+Frankfurter Ring
+Milbertshofen
+Scheidplatz
+Hohenzollernplatz
+Josephsplatz
+Theresienstr.
+Königsplatz
+Hauptbahnhof
+Sendlinger Tor
+Fraunhoferstr.
+Kolumbusplatz
+Silberhornstr.
+Untersbergstr.
+Giesing
+Karl-Preis-Platz
+Innsbrucker Ring
+Josephsburg
+Kreillerstr.
+Trudering
+Moosfeld
+Messestadt West
+Messestadt Ost
+# Metro
+:U3:#EC6624
+Moosach
+Moosacher St.-Martins-Platz
+Olympia-Einkaufszentrum
+Oberwiesenfeld
+Olympiazentrum
+Petuelring
+Scheidplatz
+Bonner Platz
+Münchner Freiheit
+Giselastr.
+Universität
+Odeonsplatz
+Marienplatz
+Sendlinger Tor
+Goetheplatz
+Poccistr.
+Implerstr.
+Brudermühlstr.
+Thalkirchen
+Obersendling:walk_so;Siemenswerke
+Aidenbachstr.
+Machtlfinger Str.
+Forstenrieder Allee
+Basler Str.
+Fürstenried West
+# Metro
+:U4:#05A983
+Westendstr.
+Heimeranplatz
+Schwanthalerhöhe
+Theresienwiese
+Hauptbahnhof
+Karlsplatz
+Odeonsplatz
+Lehel
+Max-Weber-Platz
+Prinzregentenplatz
+Böhmerwaldplatz
+Richard-Strauss-Str.
+Arabellapark
+# Metro
+:U5:#BB7A05
+Laimer Platz
+Friedenheimer Str.
+Westendstr.
+Heimeranplatz
+Schwanthalerhöhe
+Theresienwiese
+Hauptbahnhof
+Karlsplatz
+Odeonsplatz
+Lehel
+Max-Weber-Platz
+Ostbahnhof
+Innsbrucker Ring
+Michaelibad
+Quiddestr.
+Neuperlach Zentrum
+Therese-Giehse-Allee
+Neuperlach Süd
+# Metro
+:U6:#0065AD
+Klinikum Großhadern
+Großhadern
+Haderner Stern
+Holzapfelkreuth
+Westpark
+Partnachplatz
+Harras
+Implerstr.
+Poccistr.
+Goetheplatz
+Sendlinger Tor
+Marienplatz
+Odeonsplatz
+Universität
+Giselastr.
+Münchner Freiheit
+Dietlindenstr.
+Nordfriedhof
+Alte Heide
+Studentenstadt
+Freimann
+Kieferngarten
+Fröttmaning
+Garching-Hochbrück
+Garching-Forschungszentrum
+# Metro
+:U7:#874730
+Olympia-Einkaufszentrum
+Georg-Brauchle-Ring
+Westfriedhof
+Gern
+Rotkreuzplatz
+Maillingerstr.
+Stiglmaierplatz
+Hauptbahnhof
+Sendlinger Tor
+Fraunhoferstr.
+Kolumbusplatz
+Silberhornstr.
+Untersbergstr.
+Giesing
+Karl-Preis-Platz
+Innsbrucker Ring
+Michaelibad
+Quiddestr.
+Neuperlach Zentrum
+# Metro
+:U8:#D7392A
+Olympiazentrum
+Petuelring
+Scheidplatz
+Hohenzollernplatz
+Josephsplatz
+Theresienstr.
+Königsplatz
+Hauptbahnhof
+Sendlinger Tor
+Fraunhoferstr.
+Kolumbusplatz
+Silberhornstr.
+Untersbergstr.
+Giesing
+Karl-Preis-Platz
+Innsbrucker Ring
+Michaelibad
+Quiddestr.
+Neuperlach Zentrum
+# S-Bahn
+:S1:#14BAE7
+Flughafen
+Besucherpark=Neufahrn
+!Freising
+Pulling
+Neufahrn=Besucherpark
+Eching
+Lohhof
+Unterschleißheim
+Oberschleißheim
+Feldmoching
+Fasanerie
+Moosach
+Laim
+Hirschgarten
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+Leuchtenbergring
+# S-Bahn
+:S2:#75B728
+Altomünster
+Kleinberghofen
+Erdweg
+Arnbach
+Markt Indersdorf
+Niederroth
+Schwabhausen
+Bachern
+Dachau Stadt=Dachau Bahnhof
+!Petershausen
+Vierkirchen-Esterhofen
+Röhrmoos
+Hebertshausen
+Dachau Bahnhof=Dachau Stadt
+Karlsfeld
+Allach
+Untermenzing
+Obermenzing
+Laim
+Hirschgarten
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+Leuchtenbergring
+Berg am Laim
+Riem
+Feldkirchen
+Heimstetten
+Grub
+Poing
+Markt Schwaben
+Ottenhofen
+St. Koloman
+Aufhausen
+Altenerding
+Erding
+# S-Bahn
+:S3:#951781
+Mammendorf
+Malching
+Maisach
+Gernlinden
+Esting
+Olching
+Gröbenzell
+Lochhausen
+Langwied
+Pasing
+Laim
+Hirschgarten
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+St.-Martin-Str.
+Giesing
+Fasangarten
+Fasanenpark
+Unterhaching
+Taufkirchen
+Furth
+Deisenhofen
+Sauerlach
+Otterfing
+Holzkirchen
+# S-Bahn
+:S4:#E30B12
+Geltendorf
+Türkenfeld
+Grafrath
+Schöngeising
+Buchenau
+Fürstenfeldbruck
+Eichenau
+Puchheim
+Aubing
+Leienfelsstr.
+Pasing
+Laim
+Hirschgarten
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+Leuchtenbergring
+Berg am Laim
+Trudering
+Gronsdorf
+Haar
+Vaterstetten
+Baldham
+Zorneding
+Eglharting
+Kirchseeon
+Grafing Bahnhof
+Grafing Stadt
+Ebersberg
+# S-Bahn
+:S6:#00975F
+Tutzing
+Feldafing
+Possenhofen
+Starnberg
+Starnberg Nord
+Gauting
+Stockdorf
+Planegg
+Gräfelfing
+Lochham
+Westkreuz
+Pasing
+Laim
+Hirschgarten
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+Leuchtenbergring
+Berg am Laim
+Trudering
+Gronsdorf
+Haar
+Vaterstetten
+Baldham
+Zorneding
+Eglharting
+Kirchseeon
+Grafing Bahnhof
+Grafing Stadt
+Ebersberg
+# S-Bahn
+:S7:#882D22
+Wolfratshausen
+Icking
+Ebenhausen-Schäftlarn
+Hohenschäftlarn
+Baierbrunn
+Buchenhain
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+St.-Martin-Str.
+Giesing
+Perlach
+Neuperlach Süd
+Neubiberg
+Ottobrunn
+Hohenbrunn
+Wächterhof
+Höhenkirchen-Siegertsbrunn
+Dürrnhaar
+Aying
+Peiß
+Großhelfendorf
+Kreuzstr.
+# S-Bahn
+:S8:#060708
+Herrsching
+Seefeld-Hechendorf
+Steinebach
+Weßling
+Neugilching
+Gilching-Argelsried
+Geisenbrunn
+Germering-Unterpfaffenhofen
+Harthaus
+Freiham
+Neuaubing
+Westkreuz
+Pasing
+Laim
+Hirschgarten
+Donnersbergerbrücke
+Hackerbrücke
+Hauptbahnhof
+Karlsplatz
+Marienplatz
+Isartor
+Rosenheimer Platz
+Ostbahnhof
+Leuchtenbergring
+Daglfing
+Englschalking
+Johanneskirchen
+Unterföhring
+Ismaning
+Hallbergmoos
+Besucherpark
+Flughafen
+# S-Bahn
+:S20:#EA516C
+Höllriegelskreuth
+Pullach
+Großhesselohe Isartalbahnhof
+Solln
+Siemenswerke:walk_so;Obersendling
+Mittersendling
+Harras
+Heimeranplatz
+Pasing
+# Tram
+:12:#9E4694
+Schwabing Nord
+Domagkstr.
+Anni-Albers-Str.
+Am Münchner Tor
+Schwabinger Tor
+Parzivalplatz
+Kölner Platz
+Scheidplatz
+Karl-Theodor-Str.
+Clemensstr.
+Kurfürstenplatz
+Hohenzollernplatz
+Nordbad
+Barbarastr.
+Infanteriestr.
+Leonrodplatz
+Fasaneriestr.
+Albrechtstr.
+Rotkreuzplatz
+Volkartstr.
+Neuhausen
+Renatastr.
+Hubertusstr.
+Romanplatz
+# Tram
+:16:#0065AE
+Romanplatz
+Kriemhildenstr.
+Steubenplatz
+Briefzentrum
+Burghausener Str.
+Donnersberger Str.
+Marsstr.
+Deroystr.
+Hackerbrücke
+Hopfenstr.
+Hauptbahnhof Nord:walk_hbfns;Hauptbahnhof Süd
+Hauptbahnhof
+Karlsplatz
+Sendlinger Tor
+Müllerstr.
+Reichenbachplatz
+Isartor
+Mariannenplatz
+Maxmonument
+Lehel
+Nationalmuseum/Haus der Kunst
+Paradiesstr.
+Tivolistr.
+Mauerkircherstr.
+Herkomerplatz
+Effnerplatz
+Arabellastr.
+Arabellapark
+Cosimabad
+Schlösselgarten
+Prinz-Eugen-Park
+Taimerhofstr.
+Regina-Ullmann-Str.
+Fritz-Meyer-Weg
+St. Emmeram
+# Tram
+:17:#8B563E
+Amalienburgstr.
+Botanischer Garten
+Maria-Ward-Str.
+Dall'Armistr.
+Schloss Nymphenburg
+Romanplatz
+Kriemhildenstr.
+Steubenplatz
+Briefzentrum
+Burghausener Str.
+Donnersberger Str.
+Marsstr.
+Deroystr.
+Hackerbrücke
+Hopfenstr.
+Hauptbahnhof Nord:walk_hbfns;Hauptbahnhof Süd
+Hauptbahnhof
+Karlsplatz
+Sendlinger Tor
+Müllerstr.
+Reichenbachplatz
+Isartor
+Deutsches Museum
+Am Gasteig
+Wiener Platz
+Max-Weber-Platz
+Friedensengel/Villa Stuck
+Holbeinstr.
+Sternwartstr.
+Bundesfinanzhof
+Herkomerplatz
+Effnerplatz
+Arabellastr.
+Arabellapark
+Cosimabad
+Schlösselgarten
+Prinz-Eugen-Park
+Taimerhofstr.
+Regina-Ullmann-Str.
+Fritz-Meyer-Weg
+St. Emmeram
+# Tram
+:18:#13A538
+Gondrellplatz
+Senftenauerstr.
+Ammerseestr.
+Stegener Weg
+Säulinstr.
+Fachnerstr.
+Westendstr.
+Hans-Thonauer-Str.
+Siglstr.
+Lautensackstr.
+Am Lokschuppen
+Barthstr.
+Trappentreustr.
+Schrenkstr.
+Holzapfelstr.
+Hermann-Lingg-Str.
+Holzkirchner Bahnhof
+Hauptbahnhof Süd:walk_hbfns;Hauptbahnhof Nord
+Karlsplatz
+Sendlinger Tor
+Müllerstr.
+Fraunhoferstr.
+Eduard-Schmid-Str.
+Mariahilfplatz
+Ostfriedhof
+St.-Martins-Platz
+Werinherstr.
+Giesing
+Chiemgaustr.
+Schwanseestr.
+# Tram
+:19:#E30613
+Pasing
+Rathaus Pasing
+Offenbachstr.
+Am Knie
+Westbad
+Lohensteinstr.
+Willibaldplatz
+Agnes-Bernauer-Platz
+Fürstenrieder Str.
+Agnes-Bernauer-Str.
+Lautensackstr.
+Am Lokschuppen
+Barthstr.
+Trappentreustr.
+Schrenkstr.
+Holzapfelstr.
+Hermann-Lingg-Str.
+Holzkirchner Bahnhof
+Hauptbahnhof Süd:walk_hbfns;Hauptbahnhof Nord
+Hauptbahnhof
+Karlsplatz
+Lenbachplatz
+Marienplatz/Theatinerstr.:walk_mt;Marienplatz
+Nationaltheater
+Kammerspiele
+Maxmonument
+Maximilianeum
+Max-Weber-Platz
+Flurstr.
+Grillparzerstr.
+Einsteinstr.
+Vogelweideplatz
+Riedenburger Str.
+Berg am Laim
+# Tram
+:20:#16BAE7
+Moosach
+Pelkovenstr.
+Hugo-Troendle-Str.
+Wintrichring
+Hanauer Str.
+Westfriedhof
+Borstei
+Olympiapark West
+Heideckstr.
+Leonrodplatz
+Hochschule München
+Sandstr.
+Stiglmaierplatz
+Karlstr.
+Hauptbahnhof Nord:walk_hbfns;Hauptbahnhof Süd
+>Karlsplatz Nord
+>Karlsplatz
+>Hauptbahnhof>Hauptbahnhof Nord
+# Tram
+:21:#BC7A00
+Stadtwerke München
+>Westfriedhof
+>Borstei>Stadtwerke München
+Olympiapark West
+Heideckstr.
+Leonrodplatz
+Hochschule München
+Sandstr.
+Stiglmaierplatz
+Karlstr.
+Hauptbahnhof Nord:walk_hbfns;Hauptbahnhof Süd
+Karlsplatz Nord
+Lenbachplatz
+Marienplatz/Theatinerstr.:walk_mt;Marienplatz
+Nationaltheater
+Kammerspiele
+Maxmonument
+Maximilianeum
+Max-Weber-Platz
+Wörthstr.
+Ostbahnhof
+Haidenauplatz
+Ampfingstr.
+Schlüsselbergstr.
+Baumkirchner Str.
+Mutschellestr.
+Kreillerstr.
+St.-Veit-Str.
+# Tram
+:23:#BCCF00
+Schwabing Nord
+Domagkstr.
+Anni-Albers-Str.
+Am Münchner Tor
+Schwabinger Tor
+Parzivalplatz
+Potsdamer Str.
+Münchner Freiheit
+# Tram
+:25:#F1919C
+Max-Weber-Platz
+Wörthstr.
+Rosenheimer Platz
+Regerplatz
+Carl-Amery-Platz
+Ostfriedhof
+Silberhornstr.
+Tegernseer Landstr.
+Wettersteinplatz
+Kurzstr.
+Südtiroler Str.
+Tiroler Platz
+Authariplatz
+Theodolindenplatz
+Klinikum Harlaching
+Menterschwaige
+Großhesseloher Brücke
+Schilcherweg
+Grünwald, Bavariafilmplatz
+Robert-Koch-Str.
+Parkplatz
+Ludwig-Thoma-Str.
+Derbolfinger Platz
+# Tram
+:27:#F7A600
+Petuelring
+Gartenstr.
+Ackermannstr.
+Herzogstr.
+Nordbad
+Hohenzollernplatz
+Kurfürstenplatz
+Elisabethplatz
+Nordensdstr.
+Schellingstr.
+Pinakotheken
+Karolinenplatz
+Ottostr.
+Karlsplatz
+Sendlinger Tor
+# Tram
+:28:#E09F00
+Scheidplatz
+Karl-Theodor-Str.
+Clemensstr.
+Kurfürstenplatz
+Elisabethplatz
+Nordensdstr.
+Schellingstr.
+Pinakotheken
+Karolinenplatz
+Ottostr.
+Karlsplatz
+Sendlinger Tor
